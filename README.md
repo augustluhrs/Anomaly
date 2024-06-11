@@ -20,10 +20,11 @@ CC-BY-NC
 
 ### Setup
 
-- Open the touch project and make sure Mediapipe is loaded
+- Open the touch project and make sure Mediapipe is loaded / toxes all work.
+  - toxes not in repo, download from above and put the `toxes/` folder in root
+- Check MIDI connection
 - Make sure phone and computer is on same wifi
-- Open phone OBS cam or other NDI Sender, make sure appears in NDI In TOP
-  - NDI In TOP goes to SyphonSpoutOut, so start virtual camera in OBS to be able to select it as webcam (hmm)
+- Open phone OBS cam or other NDI Sender, make sure appears in NDI In TOP or as webcam option if using OBS Virtual Camera
 - Turn on projector, open output window
 - Open Control Window
 
@@ -31,6 +32,10 @@ CC-BY-NC
 
 - Can zoom, adjust exposure, etc.
 - Orientation of phone shouldn't matter?
+
+### Control UI
+
+*Designed to be used with MIDI controller with knobs for scale, rotation, and scrubbing*
 
 ### TODO
 
