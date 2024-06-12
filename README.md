@@ -12,6 +12,11 @@ Annette
 
 Thanks to Torin Blankensmith and everyone who made the [TD Mediapipe Plugin](https://github.com/torinmb/mediapipe-touchdesigner)
 
+[Teardrop Anim](https://www.shutterstock.com/video/clip-1103692871-crying-tears-animation-green-screen-background
+https://download.shutterstock.com/gatekeeper/W3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJ2aWRlby8xMTAzNjkyODcxL3ByZXZpZXcubXA0IiwgImUiOiAxNzE4MTY2MDYwLCAibSI6IDF9LCAiVzVsdlNQcm1RcjBRb3VOQ01KT3JqUG82bUpvIl0=/1103692871-preview.mp4)
+
+[Welling Anim](https://www.youtube.com/watch?v=DsRQaIh9JOM)
+
 ## License
 
 CC-BY-NC
@@ -36,32 +41,3 @@ CC-BY-NC
 ### Control UI
 
 *Designed to be used with MIDI controller with knobs for scale, rotation, and scrubbing*
-
-### TODO
-
-- [X] Repo
-- [X] Mediapipe setup and stripped
-- [X] output window for projector
-- [ ] face siphon
-  - [ ] center
-  - [ ] normalize
-  - [X] add xy adjust
-  - [X] add scale adjust
-  - [X] send to output
-- [ ] face tracking
-  - [ ] use nose XY as rough modifier for XY
-  - [ ] center calibration offset?
-- [ ] control screen
-  - [ ] cache select
-  - [ ] XY adjust
-  - [ ] scale adjust
-  - [ ] rotation adjust knob
-  - [ ] horiz flip
-  - [ ] debug face out
-
-pomo 1: repo init
-pomo 2: project set up and todo
-pomo 3: face siphon centered
-pomo 4: simple control adjust
-pomo 5: cache
-pomo 6: switch reactive to music?
