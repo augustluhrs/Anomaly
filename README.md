@@ -6,14 +6,13 @@ TD Project for Anomaly Face Siphon
 
 Madison Wada
 Philip Errico
-Annette 
+Annette Buesaquillo
 
 ## Credits
 
 Thanks to Torin Blankensmith and everyone who made the [TD Mediapipe Plugin](https://github.com/torinmb/mediapipe-touchdesigner)
 
-[Teardrop Anim](https://www.shutterstock.com/video/clip-1103692871-crying-tears-animation-green-screen-background
-https://download.shutterstock.com/gatekeeper/W3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJ2aWRlby8xMTAzNjkyODcxL3ByZXZpZXcubXA0IiwgImUiOiAxNzE4MTY2MDYwLCAibSI6IDF9LCAiVzVsdlNQcm1RcjBRb3VOQ01KT3JqUG82bUpvIl0=/1103692871-preview.mp4)
+[Teardrop Anim](https://www.shutterstock.com/video/clip-1103692871-crying-tears-animation-green-screen-background)
 
 [Welling Anim](https://www.youtube.com/watch?v=DsRQaIh9JOM)
 
@@ -21,7 +20,17 @@ https://download.shutterstock.com/gatekeeper/W3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWE
 
 CC-BY-NC
 
-## Workflow (In Progress)
+## Post Mortem So I Don't Forget
+
+- run through would have been good
+- rotation issue with pre-shrunk, needed reset button as panic button
+- projector preset would've helped a lot
+- beat faces should've had a bit more fade in since it was very obvious what was the feedback and what was pre-recorded
+- the live adjustment was a good backup, but would've been nice having auto-sizing and auto-position
+- trickle could've been a bit more uniform, would've been nice to have preset flow values so the stages would've been easier to land timing-wise. lots of delay between dial and output, so hard to finetune live.
+- projector directly centered on her face would've been a lot better. too much angle. way to adjust her position live?
+
+## Workflow (In Progress aka, never finished)
 
 ### Setup
 
